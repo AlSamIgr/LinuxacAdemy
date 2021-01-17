@@ -17,5 +17,3 @@ output "url" {
   value = aws_route53_record.jenkins.fqdn
 }
 
-
-#second test
